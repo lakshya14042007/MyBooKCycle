@@ -3,9 +3,9 @@
 MyBookCycle is a full-stack e-commerce platform designed to make buying and selling second-hand books easy and accessible. It provides a seamless user experience for browsing available books, managing listings, and securely handling user data.
 
 ## 🚀 Tech Stack
-* **Frontend:** React.js, HTML5, CSS3 (Tailwind/Bootstrap)
-* **Backend:** Node.js, Express.js (ya agar tune Java/Spring Boot use kiya hai toh wo likh de)
-* **Database:** MongoDB (ya Oracle SQL jo tune use kiya ho)
+* **Frontend:** React.js, HTML5, CSS3 
+* **Backend:** java, Springboot
+* **Database:** Oracle SQL 
 
 ## ✨ Key Features
 * **User Authentication:** Secure login and registration for buyers and sellers.
